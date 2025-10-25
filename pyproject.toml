@@ -5,4 +5,4 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "malipopy-mpesa"
-version = "0.0.1"
+"0.0.2"
