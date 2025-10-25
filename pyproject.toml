@@ -2,7 +2,3 @@
 requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
-
-[project]
-name = "malipopy-mpesa"
-"0.0.2"
